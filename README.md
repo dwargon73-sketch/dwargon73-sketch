@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300/1e1e1e/ffffff?text=DWARGON73-SKETCH" alt="Header Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B7D8D&height=300&section=header&text=TAN%20NGUYEN&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineering%20%7C%20Backend%20Developer&descAlignY=70&descSize=20" width="100%">
 </p>
 
 <!-- Hiệu ứng gõ chữ -->
