@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="268" viewBox="0 0 1000 268" role="img" aria-labelledby="title desc">
+  <title id="title">Khuyên · Java Backend Developer</title>
+  <desc id="desc">GitHub profile of arisdo-29. Spring Boot, REST APIs and SQL.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0d182b"/>
+      <stop offset="1" stop-color="#12373b"/>
+    </linearGradient>
+    <pattern id="dots" width="19" height="19" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#7fe6d1" opacity=".22"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="266" rx="21" fill="url(#background)" stroke="#345661" stroke-width="2"/>
+  <rect x="645" y="24" width="322" height="220" rx="12" fill="url(#dots)"/>
+  <path d="M635 46h-22v176h22" fill="none" stroke="#427974" stroke-width="1.5" opacity=".65"/>
+  <path d="M47 47h23" fill="none" stroke="#69e3c5" stroke-width="2.5" stroke-linecap="round"/>
+
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="82" y="52" fill="#9aead9" font-size="16" font-weight="700" letter-spacing="2.2">ARISDO-29 / GITHUB</text>
+    <text x="45" y="125" fill="#f4fffd" font-size="66" font-weight="700">Khuyên</text>
+    <text x="48" y="171" fill="#d9e9f3" font-size="29" font-weight="600">Java Backend Developer</text>
+    <text x="49" y="216" fill="#9aead9" font-size="18" letter-spacing=".5">Spring Boot  ·  REST APIs  ·  SQL</text>
+  </g>
+
+  <g stroke-width="2" stroke-linejoin="round">
+    <path d="M715 138h32m92 0h32m-77 30v26" fill="none" stroke="#68d8c2" stroke-dasharray="4 6"/>
+    <rect x="659" y="114" width="56" height="48" rx="10" fill="#1a4249" stroke="#568e8c"/>
+    <rect x="747" y="107" width="92" height="62" rx="12" fill="#1c4b50" stroke="#80e6cf"/>
+    <rect x="871" y="114" width="56" height="48" rx="10" fill="#1a4249" stroke="#568e8c"/>
+    <rect x="773" y="194" width="40" height="33" rx="8" fill="#1a4249" stroke="#568e8c"/>
+    <path d="m684 131-7 7 7 7m7-14 7 7-7 7m197-15h22m-22 8h22m-22 8h22m-116 58v13m-6-6h12" fill="none" stroke="#9aead9" stroke-linecap="round"/>
+    <path d="M775 130h35m-35 8h35m-35 8h35" fill="none" stroke="#9aead9" stroke-linecap="round"/>
+    <circle cx="782" cy="130" r="2.6" fill="#b4f5e5" stroke="none"/>
+    <circle cx="782" cy="138" r="2.6" fill="#b4f5e5" stroke="none"/>
+    <circle cx="782" cy="146" r="2.6" fill="#b4f5e5" stroke="none"/>
+  </g>
+</svg>
