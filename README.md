@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="asset.svg" alt="Header Banner" width="100%">
+  <img src="profile-banner.svg" alt="Header Banner" width="100%">
 </p>
 
 <!-- Hiệu ứng gõ chữ -->
